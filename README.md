@@ -3,3 +3,4 @@
 
 -Projeto desenvolvido em HTML e CSS, no qual foi construido uma réplica da estrutura visual do site de streaming Netflix;
 -O método de prática da Alura "7 Days of Code" não contou com responsividade neste projeto, logo, foi desenvolvido para telas de max-width 1920px, no caso, desktops;
+-Código desenvolvido totalmente por mim, embora a cada etapa a instrutora fornecesse uma resolução, eu optei por empregar o meu conhecimento em prática.
