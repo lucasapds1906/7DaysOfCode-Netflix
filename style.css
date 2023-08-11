@@ -1,0 +1,38 @@
+@import url(assets/css/header.css);
+@import url(assets/css/banner.css);
+@import url(assets/css/categorias.css);
+@import url(assets/css/rodape.css);
+
+:root {
+  /* CORES */
+  --corBotao: #efefef;
+  --corHeader: #a2a4a7;
+  --corNetflix: #b0050f;
+
+  /* FONTES */
+  --fonte: Arial, Helvetica, sans-serif;
+}
+
+body {
+  color: var(--corBotao);
+  font-family: var(--fonte);
+  background-color: black;
+}
+
+.escopo {
+  width: 90vw;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.banner {
+  height: 100vh;
+  background-size: cover;
+  background-image: linear-gradient(to bottom,
+      rgba(0, 0, 0, 0.9) 5%,
+      rgba(0, 0, 0, 0.2) 20%,
+      rgba(0, 0, 0, 0.2) 80%,
+      rgba(0, 0, 0, 0.9) 100%),
+    url(assets/img/coverImagem.png);
+  background-position: center;
+}
