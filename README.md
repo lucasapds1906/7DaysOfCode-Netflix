@@ -23,4 +23,4 @@ Figma: https://www.figma.com/file/boX9zUOYGNRuadqPh4JwwE/Alura?type=design&node-
 
 **Lucas Silva**
 - Email: lucasapds1906@gmail.com
-- GitHub: [Perfil do Lucas Silva](https://github.com/lucasapds1906)
+- GitHub: https://github.com/lucasapds1906
